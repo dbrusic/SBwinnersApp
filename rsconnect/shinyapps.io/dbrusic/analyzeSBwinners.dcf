@@ -1,0 +1,10 @@
+name: analyzeSBwinners
+title:
+username:
+account: dbrusic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 281779
+bundleId: 1223862
+url: https://dbrusic.shinyapps.io/analyzeSBwinners/
+when: 1518662926.16508
